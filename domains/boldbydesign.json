@@ -6,7 +6,7 @@
         "email": "jeremiah.helfer@protonmail.com"
     },
     "record": { 
-        "MX": ["boldbydesign.is-a.dev, -0"],
+        "MX": ["boldbydesign.is-a.dev"],
         "TXT": "mutantmail-verify=8fce2e74db8a4039958fab092dddd25fa87db148"
     }
 }
